@@ -1,6 +1,14 @@
 ScreenLocker
 ============
 
-This program create a icon. When press it the system goes to sleep immidiately. It just lock screen as easy as possible.
-Why don't we use the power button? We lock & unlock the phone many times a day, the button easily goes broken.
-So if we lock the phone using software method. the button is used half times than before.
+在使用android手机的时候，每天避免不了的就是解锁和锁屏。由于对电源按键的频繁操作，导致该按键容易损坏。如果能用软件锁屏将会非常方便。而使用软件锁屏如果还需要进入一个应用，这样将会使锁屏这件事变得非常复杂。所以一种比较好的方法就是点击一下桌面上的图标，在点击后就锁屏。
+
+该程序在安装后，点击应用图标则自动锁屏进入休眠。
+
+--------------------------------------------------------------
+
+English description:
+
+Just press the APP icon let you android phone go to sleep.
+
+Lock your phone as easy as possiable.
